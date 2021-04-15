@@ -2,4 +2,4 @@
 
 ## SendGrid
 
-Add sendgrid API key in `send.php` file
+Add SendGrid API key in `send.php` file
